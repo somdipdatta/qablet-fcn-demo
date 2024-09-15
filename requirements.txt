@@ -1,0 +1,9 @@
+--extra-index-url ${PKG_URL}
+matplotlib==3.8.3
+polars==0.20.21
+scipy==1.12.0
+pandas==2.2.1
+numpy==1.26.4
+finmc==0.0.6
+qablet_contracts==0.3.0
+qablet-extended==0.4.3
